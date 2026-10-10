@@ -20,3 +20,5 @@ Color Dock 同时提供繁体中文、日文与韩文，可在政策页切换。
 GitHub Pages 从 main 分支根目录发布。广告开关配置仍由独立的 game-remote-config 仓库维护。
 
 Color Dock 网站：[游戏主页](color-dock/home.html) · [技术支持](color-dock/support.html)。
+
+Whistle Meadow: [English](https://seansheaton-oss.github.io/game-privacy-policies/whistle-meadow/) · [简体中文](https://seansheaton-oss.github.io/game-privacy-policies/whistle-meadow/zh.html). Offline paid Android game; policy reflects local saves and enabled system backup.
