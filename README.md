@@ -24,3 +24,5 @@ Color Dock 网站：[游戏主页](color-dock/home.html) · [技术支持](color
 Whistle Meadow: [English](https://seansheaton-oss.github.io/game-privacy-policies/whistle-meadow/) · [简体中文](https://seansheaton-oss.github.io/game-privacy-policies/whistle-meadow/zh.html). Offline paid Android game; policy reflects local saves and enabled system backup.
 
 Tiny Track: Train Puzzle (Toyloom Games, `com.toyloom.tiny.track`): [English](https://seansheaton-oss.github.io/game-privacy-policies/tiny-track-escape/) · [简体中文](https://seansheaton-oss.github.io/game-privacy-policies/tiny-track-escape/zh.html). Offline train sliding puzzle; local progress and optional email support.
+
+Maze Toy Adventure（玩具迷宫大冒险）: [English](maze-toy-adventure/) · [简体中文](maze-toy-adventure/zh.html). Offline puzzle game in development; local saves, optional parent feedback, platform services and website hosting are described separately.
