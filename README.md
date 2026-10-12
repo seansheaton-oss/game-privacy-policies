@@ -22,3 +22,5 @@ GitHub Pages 从 main 分支根目录发布。广告开关配置仍由独立的 
 Color Dock 网站：[游戏主页](color-dock/home.html) · [技术支持](color-dock/support.html)。
 
 Whistle Meadow: [English](https://seansheaton-oss.github.io/game-privacy-policies/whistle-meadow/) · [简体中文](https://seansheaton-oss.github.io/game-privacy-policies/whistle-meadow/zh.html). Offline paid Android game; policy reflects local saves and enabled system backup.
+
+Tiny Track: Train Puzzle (Toyloom Games, `com.toyloom.tiny.track`): [English](https://seansheaton-oss.github.io/game-privacy-policies/tiny-track-escape/) · [简体中文](https://seansheaton-oss.github.io/game-privacy-policies/tiny-track-escape/zh.html). Offline train sliding puzzle; local progress and optional email support.
